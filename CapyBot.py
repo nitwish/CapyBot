@@ -109,8 +109,7 @@ def main():
 
     # ⚙️ CONFIGURATION - Update these values:
     BOT_TOKEN = "8136388260:AAEUOrx4F4JsOXztuoiZV1II6AevSgIcw1Q"
-    TARGET_STICKER_IDS = [
-        "AgADZwADuRtZCw",    # Replace with your actual sticker file_unique_id
+    TARGET_STICKER_IDS = [    # Replace with your actual sticker file_unique_id
         "AgADLXUAAkw0aEk",
         "AgADtnYAAuLomUs"
     ]
